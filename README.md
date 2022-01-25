@@ -1,1 +1,1 @@
-# Kubernetes playground\n
+# Kubernetes playground
